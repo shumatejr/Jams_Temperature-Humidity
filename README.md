@@ -10,15 +10,11 @@ https://canvasjs.com/
 Database Table Information:
 
 Table Name: templog
-
 Fields: logID (primary key), deviceID, temperature, humidity, logDate, logTime
-
 Function: Stores the device read from the BME280 sensor with the deviceID, date, and time
 
 Table Name: deviceparameters
-
 Fields: deviceID (primary key), pollingRate, tempAlarmLowerThreshold, tempAlarmUpperThreshold, humidityAlarmLowerThreshold, humidityAlarmUpperThreshold
-
 Function: Stores the parameters for the alarm state and polling rate of whatever sensor is being used
 
 File Overview and Purpose
