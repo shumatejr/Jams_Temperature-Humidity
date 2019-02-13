@@ -5,7 +5,7 @@ https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/using-arduino-ide
 https://learn.adafruit.com/adafruit-bme280-humidity-barometric-pressure-temperature-sensor-breakout/arduino-test
 
 Visualization uses CanvasJS which can be utilized non-commercially for free
-https://canvasjs.com/
+https://canvasjs.com/. Once downloaded, the CanvasJS files should be stored in a subfolder of the project called 'CanvasJS'.
 
 Database Table Information:
 
