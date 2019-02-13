@@ -1,5 +1,7 @@
 # Jams_Temperature-Humidity
 
+This project was developed to run on a computer running an Apache HTTP server with PHP and a MySQL server.  This code has been tested using Apache server version 2.2.15 with PHP version 5.2.13 and MySQL server 5.7.10.
+
 Resources for Huzzah Arduino and the BME280 sensor
 https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/using-arduino-ide
 https://learn.adafruit.com/adafruit-bme280-humidity-barometric-pressure-temperature-sensor-breakout/arduino-test
