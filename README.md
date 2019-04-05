@@ -27,6 +27,9 @@ parameterRead.php: Grabs the polling rate from the deviceparameters table and se
 
 tempDisplay.php: Queries the database and uses CanvasJS to display the data graphically for a particular input date.
 
+Information regarding the wiring necessary to connect the BME280 sensor to the Adafruit Feather Huzzah 8266 and Sparkfun Fuel Gauge can be found in the Fritzing breadboard diagram below. 
+<A href="https://raw.githubusercontent.com/pierrebaillargeon/Jams_Temperature-Humidity/master/JamsTemperature/Documentation/JAMS-Temperature_and_humidity_bb-cropped.png"><img src="https://raw.githubusercontent.com/pierrebaillargeon/Jams_Temperature-Humidity/master/JamsTemperature/Documentation/JAMS-Temperature_and_humidity_bb-cropped.png?raw=true" width="900"></A>
+
 Additional information regarding project implementation and use can be seen by clicking on the poster from the SLAS 2019 conference below.
 
 <A href="https://github.com/pierrebaillargeon/Jams_Temperature-Humidity/blob/master/JamsTemperature/Documentation/Shumate-SLAS_2019_poster.png"><img src="https://github.com/pierrebaillargeon/Jams_Temperature-Humidity/blob/master/JamsTemperature/Documentation/Shumate-SLAS_2019_poster.png?raw=true" width="500"></A>
