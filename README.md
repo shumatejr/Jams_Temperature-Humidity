@@ -26,3 +26,7 @@ tempSensor.php: Handles retrieving sensor data from the Arduino and uploading it
 parameterRead.php: Grabs the polling rate from the deviceparameters table and sends it to the Arduino.
 
 tempDisplay.php: Queries the database and uses CanvasJS to display the data graphically for a particular input date.
+
+Additional information regarding project implementation and use can be seen by clicking on the poster from the SLAS 2019 conference below.
+
+<A href="https://github.com/pierrebaillargeon/Jams_Temperature-Humidity/blob/master/JamsTemperature/Documentation/Shumate-SLAS_2019_poster.png"><img src="https://github.com/pierrebaillargeon/Jams_Temperature-Humidity/blob/master/JamsTemperature/Documentation/Shumate-SLAS_2019_poster.png?raw=true" width="500"></A>
